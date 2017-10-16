@@ -11,7 +11,7 @@ pip install -r requirements
 
 # Usage
 ```
-python3 wpjsonenumerator http://www.example.com
+python3 wpjsonenumerator.py http://www.example.com
 ```
 
 # Screenshots
