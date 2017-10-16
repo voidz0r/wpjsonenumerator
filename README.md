@@ -6,7 +6,7 @@ Python 3.x+ is *required*
 
 # Install
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 # Usage
